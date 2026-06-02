@@ -75,13 +75,16 @@ from MEA recordings.
 
 ## Dependencies
 
-All dependencies are installed automatically in Colab. For local use:
+All dependencies are installed automatically in Colab. 
 
-```bash
-pip install brian2 sbi
-```
+If you prefer to work locally rather than in Colab:
 
-Python 3.10+ recommended.
+    conda env create -f environment.yml
+    conda activate summerSchool2026
+    jupyter notebook
+
+Then download the notebooks and data files from this repository and skip
+the setup cell at the top of each notebook.
 
 ---
 
