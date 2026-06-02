@@ -43,7 +43,7 @@ are installed automatically when you run the first cell.
 
 **Part 1 — Exploring the network model**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninontwik/summerSchool2026/blob/main/notebook_1_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninontwik/NeuroEngSummerSchool2026/blob/main/notebook_1_model.ipynb)
 
 Build and run an Adaptive Exponential Integrate-and-Fire network, explore how
 biological parameters shape network dynamics, compare simulations to
@@ -52,7 +52,7 @@ a disease phenotype.
 
 **Part 2 — Simulation-Based Inference**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninontwik/summerSchool2026/blob/main/notebook_2_sbi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninontwik/NeuroEngSummerSchool2026/blob/main/notebook_2_sbi.ipynb)
 
 Use a pre-trained Neural Posterior Estimator (NPE) to infer network parameters
 from experimental recordings. Explore how feature choice affects the posterior,
